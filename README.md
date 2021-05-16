@@ -2,7 +2,7 @@
 
 ### A ML Regression project to predict residential house prices in Ames, Iowa, US
 
-This projects helps predicting the residential house prices in Ames (Iowa, US) provided the features described in data_description.txt file
+This projects helps predicting the residential house prices in Ames (Iowa, US) provided the features mentioned in data_description.txt file along with their descriptions.
 
 ## Project Structure
 
