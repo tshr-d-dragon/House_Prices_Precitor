@@ -17,5 +17,5 @@ under names train_processed.csv and test_processed.csv, respectively.
 
 ## Please feel free to connect for any suggestions or doubts!!!
 
-## Credits:
+## Credits
 The credit for dataset used for training goes to https://www.kaggle.com/mohansacharya/graduate-admissions
